@@ -13,7 +13,7 @@
 ---
 
 ## 數據集描述
-本專案使用了 Kaggle 提供的經典數據集 [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data)。該數據集包含 891 條乘客數據，以下是數據特徵的詳細描述：
+以下是數據特徵的詳細描述：
 
 | **欄位名稱** | **描述**                                                                 | **數據類型** |
 |--------------|--------------------------------------------------------------------------|--------------|
@@ -31,3 +31,4 @@
 | **Embarked**    | 登船港口（C = Cherbourg, Q = Queenstown, S = Southampton）            | 類別         | 
 
 ---
+數據來源：https://www.kaggle.com/c/titanic/data
