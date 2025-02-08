@@ -6,9 +6,9 @@
 ---
 
 ## 專案目標
-1. 分析患者的健康數據，探索數據特徵與糖尿病之間的關係。
-2. 建立一個分類模型，準確預測患者是否患有糖尿病。
-3. 評估模型性能，並提供可視化結果。
+- 分析患者的健康數據，探索數據特徵與糖尿病之間的關係。
+- 建立一個分類模型，準確預測患者是否患有糖尿病。
+- 評估模型性能，並提供可視化結果。
 ---
 
 ## 數據集描述
@@ -27,4 +27,4 @@
 | label                  | 是否患有糖尿病（目標標籤，分類結果）                                | 二元分類     | 
 ---
 
-數據來源:https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?resource=download
+數據來源：https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?resource=download
